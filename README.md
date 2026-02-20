@@ -32,7 +32,7 @@ Each problem contains:
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 - C++ / Python
 - STL
